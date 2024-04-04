@@ -14,3 +14,7 @@ Good kata to learn Outside-in TDD with test doubles
 
 ## Awkward dependencies examples.
 Exercises to detect violations of FIRS (side-effects and sources of non determinism).
+
+
+## Notes
+Clone to practice pair programming during the course. 
